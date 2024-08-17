@@ -4,7 +4,7 @@
 I'm a junior developer with a passion for building web applications using React. I'm constantly learning and exploring new front-end technologies to enhance my skills and contribute to exciting projects. Fun fact: I built a React Native project before even working with React!
 
 ## 🛠️ Technologies & Tools
-- **Frontend:** React, JavaScript, TypeScript HTML, CSS
+- **Frontend:** React, JavaScript, TypeScript, HTML, CSS
 - **Tools:** Git, GitHub, VS Code, npm, Vite
 
 ## 🌱 Currently Learning
