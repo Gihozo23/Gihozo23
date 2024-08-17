@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Christelle Gihozo!
 
-<!--
-**Gihozo23/Gihozo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a junior developer with a passion for building web applications using React. I'm constantly learning and exploring new front-end technologies to enhance my skills and contribute to exciting projects. Fun fact: I built a React Native project before even working with React!
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- **Frontend:** React, JavaScript, TypeScript HTML, CSS
+- **Tools:** Git, GitHub, VS Code, npm, Vite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Advanced React concepts
+- State management with Redux
+- Backend basics with Node.js
+  
+## ⚡ Fun fact
+- I’m lactose intolerant, but milk is still my favorite drink!
